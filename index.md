@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## О подкасте
 
-You can use the [editor on GitHub](https://github.com/podlodka-cast/podlodka-cast.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Подлодка (изначально задумывалось как *[pod load cast]*) - еженедельный (ну или почти) подкаст про мобильную разработку. Мы обсуждаем различные темы, так или иначе связанные с разработкой - архитектуру, паттерны, библиотеки, процессы разработки в различных компаниях. Подкаст еще очень молодой и мы находимся в поисках оптимального формата как для нас самих, так и для слушателей, но уже можем обещать нескольких постоянных рубрик: обсуждение актуальных новостей и ближайших событий и конференций.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Выпуски
 
-### Markdown
+### #2, тема которого пока неизвестна
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Дата выхода: 13.03.17 (но это не точно)
 
-```markdown
-Syntax highlighted code block
+### #1, про VIPER и React Native
 
-# Header 1
-## Header 2
-### Header 3
+Дата выхода: 27.02.17
 
-- Bulleted
-- List
+Ссылка: ---
 
-1. Numbered
-2. List
+#### Содержание
 
-**Bold** and _Italic_ and `Code` text
+- 00:00 - Знакомство
+- 1:28 - VIPER
+- 40:18 - React Native
+- 1:22:21 - Анонс WWDC
+- 1:29:48 - ABI Stability в Swift 4
+- 1:33:14 - Обзор ближайших событий
 
-[Link](url) and ![Image](src)
-```
+## Ведущие
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Толстой Егор, Avito
+- Цыганов Станислав, Rambler&Co
+- Новик Глеб, Rambler&Co
 
-### Jekyll Themes
+## Наш чат
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/podlodka-cast/podlodka-cast.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Обсудить все выпуски, пообщаться с ведущими и предложить свои темы для обсуждений можно в [нашей группе в Telegram](https://telegram.me/podlodka).
